@@ -98,7 +98,7 @@ Contribuições são bem-vindas! Por favor, leia o [CONTRIBUTING.md](CONTRIBUTIN
 
 ## 📞 Suporte
 
-Para suporte, envie um email para seu-email@exemplo.com ou abra uma issue no GitHub.
+Para suporte, envie um email para darkbyte234@gmail.com ou abra uma issue no GitHub.
 
 ---
 
